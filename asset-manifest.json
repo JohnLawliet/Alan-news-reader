@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Alan-news-reader/static/css/main.8c723a18.chunk.css",
+    "main.css": "/Alan-news-reader/static/css/main.4f7089ce.chunk.css",
     "main.js": "/Alan-news-reader/static/js/main.df06fc3f.chunk.js",
     "main.js.map": "/Alan-news-reader/static/js/main.df06fc3f.chunk.js.map",
     "runtime-main.js": "/Alan-news-reader/static/js/runtime-main.1c330efc.js",
@@ -8,13 +8,13 @@
     "static/js/2.4f60d16f.chunk.js": "/Alan-news-reader/static/js/2.4f60d16f.chunk.js",
     "static/js/2.4f60d16f.chunk.js.map": "/Alan-news-reader/static/js/2.4f60d16f.chunk.js.map",
     "index.html": "/Alan-news-reader/index.html",
-    "static/css/main.8c723a18.chunk.css.map": "/Alan-news-reader/static/css/main.8c723a18.chunk.css.map",
+    "static/css/main.4f7089ce.chunk.css.map": "/Alan-news-reader/static/css/main.4f7089ce.chunk.css.map",
     "static/js/2.4f60d16f.chunk.js.LICENSE.txt": "/Alan-news-reader/static/js/2.4f60d16f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c330efc.js",
     "static/js/2.4f60d16f.chunk.js",
-    "static/css/main.8c723a18.chunk.css",
+    "static/css/main.4f7089ce.chunk.css",
     "static/js/main.df06fc3f.chunk.js"
   ]
 }
